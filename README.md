@@ -1,4 +1,4 @@
-# Yelp-Business-Rating-Prediction-Using-Tensorflow
+# Yelp-Business-Rating-Prediction
 
 ## Problem Statement
 The goal of this project is to predict business’s star rating using the reviews of that business and
